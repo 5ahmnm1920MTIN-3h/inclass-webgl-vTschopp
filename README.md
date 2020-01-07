@@ -7,8 +7,8 @@ Introduction/Project summary
 * macOS Catalina
 * Unity 2019.1.14f1
 * Visual Studio for Mac Community v8.3.10 (build 2),
-  * Scripting Runtime: .NET 3.5
-  * API-Level: .NET 2.0 Subset
+  * Scripting Runtime: .NET 4.x Equivalent
+  * API-Level: .NET Standard 2.0
 
 ### Target platform: 
 * WebGL
@@ -28,6 +28,8 @@ incl. progress in percent
 
 ### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned:
+* Switch platform from Standalone to WebGL
+* Build WebGL
 
 &copy; 2020 NotMyTschopp
