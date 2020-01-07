@@ -4,10 +4,15 @@
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* macOS Catalina
+* Unity 2019.1.14f1
+* Visual Studio for Mac Community v8.3.10 (build 2),
+  * Scripting Runtime: .NET 3.5
+  * API-Level: .NET 2.0 Subset
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+* WebGL
+* Reference resolution: 960x600px
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +30,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+&copy; 2020 NotMyTschopp
