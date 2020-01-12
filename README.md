@@ -1,5 +1,7 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
+Play the game here: [LINK](https://5ahmnm1920mtin-3h.github.io/inclass-webgl-vTschopp/)
+
 ### Project description: 
 Introduction/Project summary 
 
